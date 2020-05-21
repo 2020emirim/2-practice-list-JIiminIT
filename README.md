@@ -14,3 +14,6 @@
 - views BookmarkList
 - templates bookmark_list.html
 - views BookmarkCreateVie
+- templates bookmark_create
+- urlsadd
+- modufy bookmark_list
